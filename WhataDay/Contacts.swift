@@ -69,6 +69,6 @@ struct Contacts: View {
 }
 
 #Preview {
-    ContentView()
+    Contacts()
 }
 
